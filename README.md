@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Sravanthi! 👋
 
-<!--
-**sravanthimogiligundla-blip/sravanthimogiligundla-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | CSE - Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+🌱 Currently learning Python, SQL and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in building real-world projects and exploring AI technologies.
+
+🚀 Working towards becoming a skilled AI/ML professional.
+
+### 🛠️ Skills I'm Learning
+- Python
+- SQL
+- Machine Learning
+- Git & GitHub
+
+### 📌 Current Goals
+- Strengthen my programming fundamentals.
+- Build practical projects.
+- Improve my problem-solving skills.
+- Explore AI and Machine Learning.
+
+### 🤝 Let's Connect
+- LinkedIn: Add your LinkedIn profile link here.
+- GitHub: You're already here!
+
+Thanks for visiting my profile! 😊
